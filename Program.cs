@@ -40,11 +40,7 @@ namespace csharp_todo_methods
         {
           todoList.Clear();
         }
-
-        else
-        {
-          Console.WriteLine("Invalid Entry! Please try again.");
-        }
+        
       }
 
       // Menu Prompt
